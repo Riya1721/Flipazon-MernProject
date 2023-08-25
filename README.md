@@ -8,6 +8,17 @@ The backend of the application is built using Node JS and Express JS.
 
 The database used for this application is MongoDB.
 
+# ** Snapshots **
+
+![snap1](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/c8a4cd3d-f4fd-426c-a8eb-4d917865e80d)
+![snap2](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/105dcdb3-f544-4f20-9711-aab30a6d86f2)
+![snap3](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/4b468af4-0063-489c-ab65-408d0fa5a891)
+![snap4](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/0e8a00f0-3220-4218-a89f-275a014e9528)
+![snap5](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/a8d3e74f-9c74-455e-b379-9b03f5f5b7e8)
+![snap6](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/7a82edb9-3997-400d-86c3-c3e18bb415ac)
+![snap7](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/8bc62487-11d2-428f-b0b4-9f00ad189b73)
+![snap8](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/260107de-39a5-4d39-a122-ccc6c0181aac)
+
 ## **Instructions**
 
 ### **1. Clone the Repository**
@@ -66,15 +77,6 @@ The database used for this application is MongoDB.
 
    npm start
 
-# ** Snapshots **#
 
-![snap1](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/c8a4cd3d-f4fd-426c-a8eb-4d917865e80d)
-![snap2](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/105dcdb3-f544-4f20-9711-aab30a6d86f2)
-![snap3](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/4b468af4-0063-489c-ab65-408d0fa5a891)
-![snap4](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/0e8a00f0-3220-4218-a89f-275a014e9528)
-![snap5](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/a8d3e74f-9c74-455e-b379-9b03f5f5b7e8)
-![snap6](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/7a82edb9-3997-400d-86c3-c3e18bb415ac)
-![snap7](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/8bc62487-11d2-428f-b0b4-9f00ad189b73)
-![snap8](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/260107de-39a5-4d39-a122-ccc6c0181aac)
 
 
