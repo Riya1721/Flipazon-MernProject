@@ -68,12 +68,13 @@ The database used for this application is MongoDB.
 
 # ** Snapshots **#
 
-![snap1](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/e81db7a9-c282-4d52-aff9-0e7c07e9aef2)
-![snap2](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/75b16af6-6b2c-4472-9c67-335f9c9dc3dc)
-![snap3](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/747c3eef-7b75-48cf-8261-586e97a7a8f4)
-![snap4](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/b9c6520f-f6ed-4508-bf78-201759caaa14)
-![snap5](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/1250c307-ca7e-4a26-b41f-ca424668140d)
-![snap6](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/bd3c9fb3-837e-4bfa-afbf-409eeaf1019a)
-![snap7](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/5d7c6a96-1e9e-45de-a261-2e48ea55ce3e)
-![snap8](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/78f2976e-392c-4d63-94c2-6bf0d2489005)
+![snap1](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/c8a4cd3d-f4fd-426c-a8eb-4d917865e80d)
+![snap2](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/105dcdb3-f544-4f20-9711-aab30a6d86f2)
+![snap3](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/4b468af4-0063-489c-ab65-408d0fa5a891)
+![snap4](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/0e8a00f0-3220-4218-a89f-275a014e9528)
+![snap5](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/a8d3e74f-9c74-455e-b379-9b03f5f5b7e8)
+![snap6](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/7a82edb9-3997-400d-86c3-c3e18bb415ac)
+![snap7](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/8bc62487-11d2-428f-b0b4-9f00ad189b73)
+![snap8](https://github.com/Riya1721/Flipazon-MernProject/assets/129158925/260107de-39a5-4d39-a122-ccc6c0181aac)
+
 
